@@ -1,2 +1,2 @@
-# skylark-fw-vvmm
-The skylark view-viewmodel-model framework
+# skylark-fw-vvm
+The skylark view-viewmodel framework
